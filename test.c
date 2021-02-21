@@ -20,9 +20,5 @@ lession 3
 lession 4
 lession 5
 lession 6
-<<<<<<< HEAD
 lession 7
-=======
-lession 8
->>>>>>> dev
 name:kang
